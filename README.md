@@ -1,2 +1,2 @@
-# porker_creator
-A porker game client demo with cocos creator
+# poker_creator
+A poker game client demo with cocos creator
